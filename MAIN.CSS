@@ -1,20 +1,28 @@
 
   html { 
+
     background: url(DOMORE.jpeg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family:'Noto Sans', sans-serif;;
   }
   
+  
+
   h1 {
       font-size: 50px;
       color: red;;
+      margin-bottom: 0;
+      font-weight: normal;
+      
   }
 
   h2 {
       color: rgb(145, 255, 0);
-    font-size: 18px ;
+      font-size: 18px ;
+      margin-top: 0;
 
     }
 
@@ -22,3 +30,19 @@
         color: red;
         font-size: 12px;
     }
+
+    .me {border-radius: 100%;
+          border-style: solid;
+          border-color: black; 
+          height: 150px;
+    }
+
+    #wrapper {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 40px;
+    text-align: center;
+    font-size: 14px;
+}
+    

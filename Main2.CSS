@@ -1,0 +1,42 @@
+
+  html { 
+
+    background: url(phone.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family:'Noto Sans', sans-serif;;
+  }
+ 
+  h1 {
+    font-size: 50px;
+    color:black;;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    
+}
+
+h2 {
+    color:navy;
+    font-size: 20px ;
+    margin-top: 30;
+    text-align: center;
+
+  }
+
+  h3 {
+    font-size: 20px;
+    color:white;;
+    margin-bottom: 30;
+    font-weight: normal;
+    text-align: center;
+}
+
+h4 {
+    color:orangered;
+    font-size: 20px ;
+    margin-top: 0;
+    text-align: center;
+  }

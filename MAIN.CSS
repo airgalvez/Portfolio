@@ -18,6 +18,10 @@
       font-weight: normal;
       
   }
+  a {
+    color: blanchedalmond;
+  }
+
 
   h2 {
       color:steelblue;
@@ -37,6 +41,8 @@
           height: 180px;
           margin-top: 20;
     }
+
+
 
     #wrapper {
     width: 400px;
